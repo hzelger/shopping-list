@@ -2,6 +2,9 @@
 birnen
 bier
 fleishkas
+ - normal
+ - kas
+ - pizza
 wurst
 chips
 käse
