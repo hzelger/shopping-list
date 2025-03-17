@@ -1,3 +1,7 @@
 äpfel
 birnen
 fleishkas
+wurst
+chips
+käse
+cola
