@@ -1,5 +1,6 @@
 äpfel
 birnen
+bier
 fleishkas
 wurst
 chips
