@@ -7,3 +7,4 @@ wurst
 chips
 käse
 cola
+red bull
