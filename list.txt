@@ -1,5 +1,6 @@
 äpfel
 birnen
+banane
 bier
 fleishkas
  - normal
