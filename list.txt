@@ -3,9 +3,6 @@ birnen
 banane
 bier
 fleishkas
- - normal
- - kas
- - pizza
 wurst
 chips
 käse
