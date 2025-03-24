@@ -13,3 +13,4 @@ monster white
 salat
 kekse
 kebap
+fisch
